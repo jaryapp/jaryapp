@@ -2,7 +2,7 @@
 
 `React`를 활용한 웹 개발에 관심이 많습니다
 
-### History
+### 📖 History
 - Naver Glace CIC - Front-end Developer (2021.07 ~ 현재)
 - Kakao Commerce - Front-end Developer (2021.05 ~ 2021.07)
 - Samsung Electronics CE/IM SW Lab Intern (2020.07 ~ 2020.08)
@@ -12,5 +12,5 @@
 - IT Compnay - Web Developer (병역특례 2017.05 ~ 2019.07)
 - Chungbuk National University - Bachelor of software major 15th
 
-### Service
+### 🏃 Service
 충북대학교 알림이(`충림이`) - [Android](https://play.google.com/store/apps/details?id=com.jaryapp.cmi&hl=ko&gl=US) [IOS](https://apps.apple.com/kr/app/%EC%B6%A9%EB%A6%BC%EC%9D%B4/id1542030436)
