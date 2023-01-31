@@ -11,7 +11,7 @@
 - Software Maestro 11th (2020.05 ~ 2020.07)
 - My Lovely Team [CMI](https://github.com/CMI-OSS) - (2020.03 ~ 현재)
 - Samsung software competency (2019) - A+
-- IT Compnay - Web Developer (병역특례 2017.05 ~ 2019.07)
+- IT Company - Web Developer (병역특례 2017.05 ~ 2019.07)
 - Chungbuk National University - Bachelor of software major 15th
 
 ### 🏃 Service
